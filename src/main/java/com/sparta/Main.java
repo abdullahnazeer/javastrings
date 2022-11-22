@@ -60,8 +60,6 @@ public class Main {
 
         String[] words = phrase.split(" ");
 
-//        System.out.println(words.toString());
-
         return result = countWords(words, character);
 
     }
